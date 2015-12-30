@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.7)
+    mini_portile2 (2.0.0)
+    nokogiri (1.6.7.1)
+      mini_portile2 (~> 2.0.0.rc2)
+    phantomjs (1.9.8.0)
+    screencap (0.1.4)
+      phantomjs
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  nokogiri
+  screencap
+
+BUNDLED WITH
+   1.10.3
