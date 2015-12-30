@@ -2,6 +2,20 @@
 
 Because browsing the pathe.nl website for seats takes way to much time.
 
+## Installation
+
+Clone repo.
+
+```
+git clone https://github.com/nicka/pathe.rb
+```
+
+Install gems.
+
+```
+buundle install
+```
+
 ## Usage
 
 Command options.
